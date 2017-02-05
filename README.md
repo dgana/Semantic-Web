@@ -1,12 +1,6 @@
-# Semantic-Web
-Using semantic tags HTML5
-
 # About This Site
 
-Website di atas dalam folder profile _(index.html)_ adalah portfolio saya selama bekerja menjadi web developer walaupun baru hanya satu project yang dikerjakan :joy:   
-Begitu juga dengan portfolio saya sewaktu menjadi Videographer.
-
-Website Portfolio since i work as a web developer and also my youtube link before I change course to be a Programmer.   
+Website Portfolio since i work as a web developer and also my youtube link before I change course to be a Programmer.
 
 ## Used Tags & Sintaxes
 
@@ -29,6 +23,6 @@ needs web development technology for people prosperity.
 ## Guides to see my portfolio
 
 ```
-* npm start
-* localhost:3000
+1). npm start
+2). localhost:3000
 ```
